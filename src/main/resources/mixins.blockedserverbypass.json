@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.blockedserverbypass.mixins",
+  "refmap": "refmap.blockedserverbypass.json",
+  "client": [
+    "BlockedServersMixin"
+  ]
+}
